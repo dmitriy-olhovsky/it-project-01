@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+}
+
+img {
+  margin: 0 auto;
+}
+
+.header {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  
+  margin: 15px 0 40px 0;
+
+  /*border: 2px solid #000;
+  padding: 50px 15px;
+  margin: 40px*/
+}
+
+p {
+  font-size: 16px;
+}
+
+.address {
+  line-height: 40px;
+  font-size: 24px;
+}
+
+.content {
+  max-width: 700px;
+  margin: 30px auto 10px;
+  font-size: 22px;
+}
+
+.social {
+  a {
+    margin: 0 5px;
+  }
+
+  img {
+    display: inline-block;
+  }
+}
